@@ -4,16 +4,15 @@
     android:layout_height="match_parent">
 
     <TextView
-        android:id="@+id/tx1"
+        android:id="@+id/txtv_medicial"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignTop="@+id/tx1"
         android:text="Medicial"
         android:textSize="50dp"
         android:gravity="center"
         android:textStyle="bold"
         android:layout_centerInParent="true"
+        android:textColor="@color/black"
         />
-
 
 </RelativeLayout>
