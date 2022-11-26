@@ -7,12 +7,15 @@
         android:id="@+id/txtv_register"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+
         android:layout_alignTop="@id/txtv_register"
         android:gravity="center"
+
         android:text="Register"
         android:textSize="50dp"
         android:textStyle="bold"
         android:textColor="@color/black"
+
         android:paddingTop="20dp"
         android:paddingBottom="20dp"
         />
@@ -121,7 +124,9 @@
         android:id="@+id/btn_register"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+
         android:text="Register"
+
         android:layout_below="@id/age"
         android:layout_margin="20dp"
         android:padding="10dp"
